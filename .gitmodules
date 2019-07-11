@@ -1,3 +1,4 @@
 [submodule "SubModule"]
 	path = SubModule
 	url = https://github.com/ssgkarthik/SubModule.git
+	branch = master
